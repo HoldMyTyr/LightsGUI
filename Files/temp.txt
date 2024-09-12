@@ -1,0 +1,11 @@
+'Prusa A (01)';Printing;PR-16031_1391610.gcode;61.53596188504301
+'Prusa I (2)';Operational;PR-16095_1492252.gcode;None
+'Prusa J (3)';Operational;None;None
+'Prusa -1 (04)';Offline (Error: Too many consecutive timeouts, printer still connected and alive?);None;None
+'Prusa H (6)';Printing;PR-16095_1492252.gcode;4.147724558381032
+'Prusa E (9)';Offline (Error: Too many consecutive timeouts, printer still connected and alive?);None;None
+'Prusa D (10)';Offline (Error: Connection error, see Terminal tab);None;None
+'Prusa C (11)';Printing;PR-16090_1473588.gcode;6.984491717621208
+'Prusa B (12)';Operational;None;None
+'Prusa F (14)';Printing;PR-16091_1473589.gcode;0.9281050866618802
+'Prusa G (15)';Printing;PR-16093_1481742.gcode;8.064971624991243

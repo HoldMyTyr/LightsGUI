@@ -1,0 +1,924 @@
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1688
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1590
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1519
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1477
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1484
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1545
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1655
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1716
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1678
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1558
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1450
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1347
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1239
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1158
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1085
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  1017
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  954
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Printerrequestedline1butnosufficienthistoryisavailable,can'tresend)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  891
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Printing  :  test_print.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  831
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Printing  :  test_print.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  775
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Printing  :  test_print.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  709
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Pausing  :  test_print.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  629
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Cancelling  :  test_print.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  542
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Cancelling  :  test_print.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  463
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Cancelling  :  test_print.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  393
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Cancelling  :  test_print.gcode  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  317
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  240
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  177
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  107
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  46
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Printing  :  PR-15901_1302529.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  PR-15901_1302529.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  PR-15901_1302529.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Operational  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Toomanyconsecutivetimeouts,printerstillconnectedandalive?)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+Operational  :  PR-15881_1292462.gcode  :  0
+Offline(Error:Connectionerror,seeTerminaltab)  :  None  :  None
+
+
+
