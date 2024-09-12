@@ -1,15 +1,17 @@
 import sys
+import cv2
 import msvcrt
 import os
 
-from PyQt6.QtCore import QTimer, QUrl
-from PyQt6.QtWidgets import QApplication, QWidget, QPushButton, QLabel, QGridLayout, QVBoxLayout, QHBoxLayout, QProgressBar
-from PyQt6.QtGui import QPixmap
-from PyQt6.QtMultimedia import QMediaPlayer
+from PyQt6.QtCore import QTimer, Qt
+from PyQt6.QtWidgets import QApplication, QWidget, QPushButton, QLabel, QGridLayout, QVBoxLayout, QHBoxLayout, \
+    QProgressBar, QSizePolicy
+from PyQt6.QtGui import QPixmap, QImage
 
 ipList = []
 keyList = []
 nameList = []
+currentWebcam = 0
 
 
 def updateLists():
@@ -104,11 +106,12 @@ class PrinterStatusWidget(QWidget):
 
             # add the status color
             if currentStatus == 'Operational' or currentStatus == 'Offline (Error: Connection error, see Terminal tab)':
-                pixmap = QPixmap(r'Images\3.png').scaled(20, 20)
+                pixmap = QPixmap(r'Images\3.png')
+                #.scaled(20,20)
             elif currentStatus == 'Printing' or currentStatus == 'Paused':
-                pixmap = QPixmap(r'Images\2.png').scaled(20, 20)
+                pixmap = QPixmap(r'Images\2.png')
             else:
-                pixmap = QPixmap(r'Images\1.png').scaled(20, 20)
+                pixmap = QPixmap(r'Images\1.png')
             pixmapLabel = QLabel(self)
             pixmapLabel.setPixmap(pixmap)
 
@@ -124,23 +127,35 @@ class PrinterDisplayWidget(QWidget):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
-        self.videoLayout = QVBoxLayout(self)
+        self.videoLayout = QHBoxLayout(self)
 
         self.videoLabel = QLabel(self)
-        self.mediaPlayer = QMediaPlayer()
-        self.mediaPlayer.setVideoOutput(self.videoLabel)
 
-        self.updatePrinterDisplay()
-
-    def updatePrinterDisplay(self):
-        # clear the layout
-        for i in reversed(range(self.videoLayout.count())):
-            self.videoLayout.itemAt(i).widget().deleteLater()
-
-        self.mediaPlayer.setSource(QUrl('http://192.168.1.115/webcam/?action=stream'))
-        self.mediaPlayer.play()
+        self.videoLabel.setSizePolicy(QSizePolicy.Policy.Expanding, QSizePolicy.Policy.Expanding)
 
         self.videoLayout.addWidget(self.videoLabel)
+        self.setLayout(self.videoLayout)
+
+        self.updateUrl()
+
+        self.updateFrame()
+
+
+
+    def updateFrame(self):
+        ret, frame = self.capture.read()
+        if ret:
+            height, width, channel = frame.shape
+            bytesPerLine = 3*width
+            videoImage = QImage(frame.data, width, height, bytesPerLine, QImage.Format.Format_RGB888).rgbSwapped()
+            scaledVideo = QPixmap.fromImage(videoImage).scaled(self.videoLabel.size(), Qt.AspectRatioMode.KeepAspectRatio)
+            self.videoLabel.setPixmap(scaledVideo)
+        else:
+            print('Failed to retrieve video stream')
+
+    def updateUrl(self):
+        self.url = 'http://192.168.1.115/webcam/?action=stream'
+        self.capture = cv2.VideoCapture(self.url)
 
 
 
@@ -161,10 +176,13 @@ class MainWindow(QWidget):
         mainLayout.addWidget(printerStatusWidget)
         mainLayout.addWidget(printerDisplayWidget)
 
-        self.timer = QTimer(self)
-        self.timer.timeout.connect(printerStatusWidget.updateStatus)
-        self.timer.timeout.connect(printerDisplayWidget.updatePrinterDisplay)
-        self.timer.start(10000)
+        self.timer1 = QTimer(self)
+        self.timer1.timeout.connect(printerStatusWidget.updateStatus)
+        self.timer1.start(10000)
+
+        self.timer2 = QTimer(self)
+        self.timer2.timeout.connect(printerDisplayWidget.updateFrame)
+        self.timer2.start(30)
 
         # show the window
         self.show()
