@@ -11,7 +11,7 @@ from PyQt6.QtGui import QPixmap, QImage
 ipList = []
 keyList = []
 nameList = []
-currentWebcam = 0
+currentWebcams = []
 
 
 def updateLists():
@@ -105,13 +105,13 @@ class PrinterStatusWidget(QWidget):
                 completionBar.setValue(0)
 
             # add the status color
+            size = int(nameLabel.height() / len(nameList))
             if currentStatus == 'Operational' or currentStatus == 'Offline (Error: Connection error, see Terminal tab)':
-                pixmap = QPixmap(r'Images\3.png')
-                #.scaled(20,20)
+                pixmap = QPixmap(r'Images\3.png').scaled(size, size)
             elif currentStatus == 'Printing' or currentStatus == 'Paused':
-                pixmap = QPixmap(r'Images\2.png')
+                pixmap = QPixmap(r'Images\2.png').scaled(size, size)
             else:
-                pixmap = QPixmap(r'Images\1.png')
+                pixmap = QPixmap(r'Images\1.png').scaled(size, size)
             pixmapLabel = QLabel(self)
             pixmapLabel.setPixmap(pixmap)
 
@@ -130,6 +130,7 @@ class PrinterDisplayWidget(QWidget):
         self.videoLayout = QHBoxLayout(self)
 
         self.videoLabel = QLabel(self)
+        self.setGeometry(100, 100, 640, 480)
 
         self.videoLabel.setSizePolicy(QSizePolicy.Policy.Expanding, QSizePolicy.Policy.Expanding)
 
@@ -158,7 +159,6 @@ class PrinterDisplayWidget(QWidget):
         self.capture = cv2.VideoCapture(self.url)
 
 
-
 class MainWindow(QWidget):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -172,17 +172,17 @@ class MainWindow(QWidget):
 
         # make and add the printerStatus widget
         printerStatusWidget = PrinterStatusWidget()
-        printerDisplayWidget = PrinterDisplayWidget()
+        # printerDisplayWidget = PrinterDisplayWidget()
         mainLayout.addWidget(printerStatusWidget)
-        mainLayout.addWidget(printerDisplayWidget)
+        # mainLayout.addWidget(printerDisplayWidget)
 
         self.timer1 = QTimer(self)
         self.timer1.timeout.connect(printerStatusWidget.updateStatus)
         self.timer1.start(10000)
 
-        self.timer2 = QTimer(self)
-        self.timer2.timeout.connect(printerDisplayWidget.updateFrame)
-        self.timer2.start(30)
+        # self.timer2 = QTimer(self)
+        # self.timer2.timeout.connect(printerDisplayWidget.updateFrame)
+        # self.timer2.start(30)
 
         # show the window
         self.show()

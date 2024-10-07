@@ -43,8 +43,8 @@ def main():
     app = QApplication(sys.argv)
 
     # Define the IP list and index
-    ipList = ['192.168.1.125', '192.168.1.115']
-    x = 1  # Index to select which IP to use
+    ipList = ['192.168.1.147', '192.168.1.115']
+    x = 0  # Index to select which IP to use
 
     # Construct the URL
     url = f'http://{ipList[x]}/webcam/?action=stream'

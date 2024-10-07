@@ -102,6 +102,8 @@ def copyDatabase():
         if response is not str:
             validPrinters.append(ips[y] + ',' + keys[y] + ',' + names[y])
 
+    validPrinters = sorted(validPrinters, key=lambda x: int(x.split()[1].split("'")[0]))
+
     with open(r'Files\printers.txt', 'w') as file:
         for z in range(len(validPrinters)):
             file.write(validPrinters[z]+'\n')
